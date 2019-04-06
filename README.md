@@ -3,7 +3,7 @@
 [![N|Solid](https://www.shareicon.net/data/256x256/2016/06/19/603895_prog_512x512.png)](https://symfony.com/)
 
 
-# Api REST créée avec le Framwork Symfony
+# Api REST créée avec le Framework Symfony
 
   - Version 4.2
 
@@ -30,7 +30,7 @@ $ composer install
 | server | composer require server --dev |
 | FOSRestBundle | composer require friendsofsymfony/rest-bundle |
 | JMSSerializer | composer require jms/serializer-bundle |
-| SensioFramworkExtraBundle | composer require sensio/framework-extra-bundle |
+| SensioFrameworkExtraBundle | composer require sensio/framework-extra-bundle |
 | SymfonyValidator | composer require symfony/validator |
 | SymfonyOrmPack | composer require symfony/orm-pack |
 | FOSUserBundle | composer require friendsofsymfony/user-bundle |
