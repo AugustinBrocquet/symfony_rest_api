@@ -48,7 +48,7 @@ $ ./.env
 $ ./.env.dist
 ```
 
-Remplacer le bd_user et le db_password par db_name par votre identifients BDD
+Remplacer le db_user et le db_password par db_name par votre identifients BDD
 
 
 Démarer votre serveur local
